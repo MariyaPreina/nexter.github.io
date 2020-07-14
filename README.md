@@ -2,7 +2,9 @@
 
 
 
-[NEXTER]
+[NEXTER] is a website for buying home.
+
+
 This website was built from Jonas Schmedtmann's [Advanced CSS course] on Udemy. 
 
 
@@ -13,6 +15,7 @@ This website was built from Jonas Schmedtmann's [Advanced CSS course] on Udemy.
 * SASS
 * CSS Grid
 * Flexbox
+* NPM
 
 
 
@@ -24,6 +27,8 @@ This website was built from Jonas Schmedtmann's [Advanced CSS course] on Udemy.
 
 
 ![Screenshot](/img/screenshot-l.png)
+
+
 
 
 
